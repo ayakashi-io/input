@@ -1,0 +1,14 @@
+{
+  "name": "@ayakashi/input",
+  "version": "1.0.0",
+  "description": "Internal package for input handling and keyboard mapping",
+  "main": "lib/index.js",
+  "author": {
+    "name": "ayakashi.io",
+    "email": "hello@ayakashi.io"
+  },
+  "repository": {
+    "url": "https://github.com/ayakashi-io/input"
+  },
+  "license": "Apache-2.0"
+}
